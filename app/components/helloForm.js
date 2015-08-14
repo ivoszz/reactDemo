@@ -7,7 +7,7 @@ export default class HelloForm extends React.Component {
 	constructor (props) {
 		super(props);
 		this.state = {name: 'world'};
-  }
+	}
 
 	render () {
 		return (<div className="hello-form">
