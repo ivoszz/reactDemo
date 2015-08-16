@@ -3,3 +3,19 @@
 		color: blue;
 	}
 }
+
+.App {
+	border: 1px solid black;
+
+	.Stats {
+		background-color: lightgray;
+	}
+	.d3-point {
+		fill: blue;
+		stroke: black
+	}
+	.d3-point:hover {
+		fill: red;
+		stroke: black
+	}
+}
